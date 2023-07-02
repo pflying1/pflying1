@@ -62,12 +62,13 @@
 </div><br>
 
 
-## Graph ↗️
-[![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
 
 
 <!--
 **pflying1/pflying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Graph ↗️
+[![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
 
 [![Video Label](http://img.youtube.com/vi/'유튜브주소의id'/0.jpg)](https://youtu.be/'유튜브주소의id')
 
