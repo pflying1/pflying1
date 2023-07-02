@@ -5,9 +5,11 @@
 ## Favorite's ⭐
 <div style="display:flex; flex-direction:row;">
     🎵Listening to music : [![Video Label](http://img.youtube.com/vi/mWKDZRJWdF4/0.jpg)]([https://www.youtube.com/watch?v=mWKDZRJWdF4])
+    <br>
     🖼️View illustration : <img src="https://img.shields.io/badge/ twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/> 
-    ApexLegends <img src="https://img.shields.io/badge/E71D29?style=flat-square&logo=undertale&logoColor=white"/>
-    
+    <br>
+    🎮ApexLegends <img src="https://img.shields.io/badge/undertale-E71D29?style=flat-square&logo=undertale&logoColor=white"/>
+    <br>
 </div><br>
 
 ## Contact 📞
