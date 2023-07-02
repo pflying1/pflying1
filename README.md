@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&font=Lora&lines=🤖정성철의%20깃허브에%20오신것을%20환영합니다.&size=20)](https://git.io/typing-svg)
 </br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&font=Archivo&lines=할땐%20열심히%20하고%20놀땐%20신나게%20놀자&size=20)](https://git.io/typing-svg)
+<div style="size:30">할땐 열심히 하고 놀땐 신나게 놀자</div>
 
 ## Contact 📞
 <div style="display:flex; flex-direction:row;">
