@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
 ![Seong Cheol GitHub stats](https://github-readme-stats.vercel.app/api?username=pflying1&theme=default&show_icons=true)
-
+![Seong Cheol GitHub stats](https://github-readme-stats.vercel.app/api?username=pflying1&show_icons=true&theme=radical)
 <!--
 **pflying1/pflying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
