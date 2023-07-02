@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" height="30%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="42%" height="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="30%" height="30%"/>
 </a>
 <!--
 **pflying1/pflying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
