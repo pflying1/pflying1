@@ -34,14 +34,15 @@
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"> 
     <br>
 </div><br>
-</div>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="32%" />
-</a>
+<div style="display:flex; flex-direction:row;">
+    <a href="s">
+      <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
+    </a>
+    <a href="s">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="32%" />
+    </a>
+</div><br>
 
 
 
