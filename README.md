@@ -2,15 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&font=Caprasimo&lines=🤖정성철의%20깃허브에%20오신것을%20환영합니다.&size=20)](https://git.io/typing-svg)
 
-## Log's ✒️
-<div style="display:flex; flex-direction:row;">
-    <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
-    </a>
-    <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="32%" />
-    </a>
-</div><br>
 
 ## Favorite's ⭐
 <div style="display:flex; flex-direction:row;">
@@ -55,6 +46,15 @@
     <br>
 </div><br>
 
+## Log's ✒️
+<div style="display:flex; flex-direction:row;">
+    <a href="s">
+      <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
+    </a>
+    <a href="s">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="32%" />
+    </a>
+</div><br>
 
 
 ## Graph ↗️
