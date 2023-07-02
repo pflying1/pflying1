@@ -10,7 +10,7 @@
     </a>
 </div><br>
 
-## Project 📓
+## Projects 📓
 <div style="display:flex; flex-direction:row;">
     <a href="">
         <img src="https://img.shields.io/badge/ KDT_2 Project-C-000000?style=flat-square&logo=Notion&logoColor=white"/> 
