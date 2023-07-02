@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&text=Seong%20Cheol's%20github&fontAlign=50)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=🤖Welcome&font=NotoSansKorean&size=40)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/ tjdcjf9333@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
-<img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ tjdcjf9333@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
@@ -9,6 +9,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="32%" />
 </a>
+
 <!--
 **pflying1/pflying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
