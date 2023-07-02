@@ -14,6 +14,9 @@
     <a href="">
         <img src="https://img.shields.io/badge/ KDT_2 Project-A-000000?style=flat-square&logo=Notion&logoColor=white"/> 
     </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/ KDT_2 Project-B-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+    </a>
 </div><br>
 
 
