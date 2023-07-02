@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&font=Caprasimo&lines=🤖정성철의%20깃허브에%20오신것을%20환영합니다.&size=20)](https://git.io/typing-svg)
 
+## Favorite's ⭐
+<div style="display:flex; flex-direction:row;">
+    🎵Listening to music : [![Video Label](http://img.youtube.com/vi/mWKDZRJWdF4/0.jpg)]([https://www.youtube.com/watch?v=mWKDZRJWdF4])
+    🖼️View illustration : <img src="https://img.shields.io/badge/ twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/> 
+    ApexLegends <img src="https://img.shields.io/badge/E71D29?style=flat-square&logo=undertale&logoColor=white"/>
+    
+</div><br>
 
 ## Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -53,6 +60,8 @@
 
 <!--
 **pflying1/pflying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Video Label](http://img.youtube.com/vi/'유튜브주소의id'/0.jpg)](https://youtu.be/'유튜브주소의id')
 
 Here are some ideas to get you started:
 #EA4335
