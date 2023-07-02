@@ -8,7 +8,12 @@
     <a href="mailto:tjdcjf9333@gmail.com">
         <img src="https://img.shields.io/badge/tjdcjf9333@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
-    <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+    <a href="https://www.notion.so/Project-C-1-4c2c4afa0f664100a49d6327803a1c7d">
+        <img src="https://img.shields.io/badge/ KDT_2 Project-C-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+    </a>
+    <a href="https://www.notion.so/Project-A-4-341ab82a44204b22aa5112fcb2b028ab">
+        <img src="https://img.shields.io/badge/ KDT_2 Project-A-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+    </a>
 </div><br>
 
 
