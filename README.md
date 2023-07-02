@@ -21,7 +21,7 @@
 
 
 
-[![SeongCheol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
+[![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
 
 
 
