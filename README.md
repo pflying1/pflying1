@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&text=Seong%20Cheol's%20github&fontAlign=50)
+# 🖋️ 할땐 열심히 하고 놀땐 신나게 놀자
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&font=Lora&lines=🤖정성철의%20깃허브에%20오신것을%20환영합니다.&size=20)](https://git.io/typing-svg)
 </br>
-# 📓 할땐 열심히 하고 놀땐 신나게 놀자 🤾‍♂️
 
 ## Contact 📞
 <div style="display:flex; flex-direction:row;">
