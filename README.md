@@ -22,6 +22,8 @@
     <br>
     🎮ApexLegends <img src="https://img.shields.io/badge/-E71D29?style=flat-square&logo=undertale&logoColor=white"/>
     <br>
+    💻 Coding 
+    ✏️ Design
 </div><br>
 
 
