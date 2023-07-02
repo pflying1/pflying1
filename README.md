@@ -35,6 +35,7 @@
     <br>
 </div><br>
 
+## log's ✒️
 <div style="display:flex; flex-direction:row;">
     <a href="s">
       <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
@@ -45,9 +46,10 @@
 </div><br>
 
 
-
-[![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
-
+## Graph ↗️
+<div style="display:flex; flex-direction:row;">
+    [![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
+</div><br>
 
 
 <!--
