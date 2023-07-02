@@ -8,7 +8,7 @@
     <a href="mailto:tjdcjf9333@gmail.com">
         <img src="https://img.shields.io/badge/tjdcjf9333@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://www.notion.so/Project-C-1-4c2c4afa0f664100a49d6327803a1c7d">
+    <a href="[https://www.notion.so/Project-C-1-4c2c4afa0f664100a49d6327803a1c7d](https://ethereal-fiber-870.notion.site/Project-C-1-4c2c4afa0f664100a49d6327803a1c7d?pvs=4)">
         <img src="https://img.shields.io/badge/ KDT_2 Project-C-000000?style=flat-square&logo=Notion&logoColor=white"/> 
     </a>
     <a href="https://www.notion.so/Project-A-4-341ab82a44204b22aa5112fcb2b028ab">
