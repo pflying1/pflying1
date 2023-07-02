@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&text=Seong%20Cheol's%20github&fontAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&font=Caprasimo&lines=🤖정성철의%20깃허브에%20오신것을%20환영합니다.&size=20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&font=Caprasimo&lines=할땐%20열심히%20하고%20놀땐%20신나게%20놀자&size=20)](https://git.io/typing-svg)
 
 ## Contact 📞
 <div style="display:flex; flex-direction:row;">
