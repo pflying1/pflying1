@@ -49,6 +49,9 @@
     <img src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     <br>
+    <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> 
+    <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"> 
+    <br>
 </div><br>
 
 ## Log's ✒️
