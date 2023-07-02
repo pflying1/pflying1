@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&text=Seong%20Cheol's%20github&fontAlign=50)
 
-## 📞 Contact 📞
+## Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:tjdcjf9333@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/tjdcjf9333@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
     </a>
     <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 </div><br>
