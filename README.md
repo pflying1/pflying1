@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&text=Seong%20Cheol's%20github&fontAlign=50)
-###  👋 Seong Cheol Jeong의 깃허브에 오신걸 환영합니다.
 문의 : <img src="https://img.shields.io/badge/ tjdcjf9333@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
