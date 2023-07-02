@@ -11,6 +11,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=🤖정성철의%20깃허브에%20오신것을%20환영합니다.&font=Caprasimo&size=15)](https://git.io/typing-svg)
 
+##  Skills 💻
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+    <br>
+</div><br>
+</div>
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
@@ -22,7 +36,6 @@
 
 
 [![SeongCheol github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pflying1&theme=dracula)](https://github.com/pflying1/github-readme-activity-graph)
-
 
 
 
