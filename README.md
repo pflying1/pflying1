@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&text=Seong%20Cheol's%20github&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 
-
-문의 : <img src="https://img.shields.io/badge/ tjdcjf9333@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
-
-
+<img src="https://img.shields.io/badge/ tjdcjf9333@gmail.com -EA4335?style=flat-square&logo=Gmail&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
 
 ![Seong Cheol GitHub stats](https://github-readme-stats.vercel.app/api?username=pflying1&theme=default&show_icons=true)
