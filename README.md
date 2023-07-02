@@ -13,7 +13,7 @@
 
 
 
-##  Skills 💻
+##  Skill's 💻
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -36,7 +36,7 @@
     <br>
 </div><br>
 
-## log's ✒️
+## Log's ✒️
 <div style="display:flex; flex-direction:row;">
     <a href="s">
       <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="42%" />
