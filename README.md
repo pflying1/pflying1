@@ -1,5 +1,5 @@
 ###  👋 Seong Cheol Jeong의 깃허브에 오신걸 환영합니다.
-<img src="https://img.shields.io/badge/Gmail -EA4335?style=flat-square&logo=Gmail&logoColor=white"/>tjdcjf9333@gmail.com
+<img src="https://img.shields.io/badge/Gmail -EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   tjdcjf9333@gmail.com
 
 ![Seong Cheol GitHub stats](https://github-readme-stats.vercel.app/api?username=pflying1&theme=default&show_icons=true)
 
