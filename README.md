@@ -18,6 +18,7 @@
     <br>
     🖼️View illustration : <img src="https://img.shields.io/badge/ twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/> 
     <br>
+    🥊Watch Kickboxing
     🎮ApexLegends <img src="https://img.shields.io/badge/-E71D29?style=flat-square&logo=undertale&logoColor=white"/>
     <br>
 </div><br>
