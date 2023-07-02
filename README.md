@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<img src="https://img.shields.io/badge/Gmail-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+### Seong Cheol Jeong의 깃허브에 오신걸 환영합니다. 👋
+<img src="https://img.shields.io/badge/Gmail-3DDC84?style=flat-square&logo=Gmail&logoColor=white"/>
 <!--
 **pflying1/pflying1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
