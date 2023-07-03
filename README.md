@@ -71,7 +71,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=pflying1&theme=tokyonight&show_icons=true" width="62%" />
     </a>
     <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="42%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pflying1&exclude_repo=pflying1.github.io&layout=compact&theme=tokyonight" width="62%" />
     </a>
 </div><br>
 
